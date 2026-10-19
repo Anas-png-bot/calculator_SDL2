@@ -1,0 +1,16 @@
+# Fichiers compilés sous Windows / Linux / macOS
+*.exe
+*.out
+*.o
+*.obj
+*.lib
+*.a
+
+# Dossiers de build / IDE
+/bin/
+/obj/
+.vscode/
+.idea/
+*.suo
+*.ncb
+*.user
